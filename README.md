@@ -27,8 +27,10 @@ identifying top performers, league averages, and historical trends.
 NBA Players Stats dataset from Kaggle — covers seasons 1996-97 to 2019-20.
 
 ## How to run
+```
 pip install pandas
-python nba_analyzer.py
+python nba_stat_tracker.py
+```
 
 ## Author
 Doyin Oyedijo — [github.com/DoyinOyedijo](https://github.com/DoyinOyedijo)
